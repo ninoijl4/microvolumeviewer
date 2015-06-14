@@ -1,0 +1,1 @@
+This is a simple program that allows the user to explore volumetric data sets stored in multiple formats.  This software was specifically designed to deal with new microscopy techniques that create large 3D data sets.
